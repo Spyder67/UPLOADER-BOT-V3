@@ -6,7 +6,7 @@ Pillow
 pyrogram==1.4.16
 requests
 tgcrypto
-yt-dlp==2023.2.17
+yt-dlp==2023.03.04
 olefile
 motor
 pymongo
